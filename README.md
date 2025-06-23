@@ -28,9 +28,4 @@ This project aims to predict rainfall using machine learning techniques based on
   - Rainfall Today (optional)
 - Target: `RainTomorrow` (Yes/No)
 
-## 🛠️ How to Run the Project
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/rainfall-prediction.git
-   cd rainfall-prediction
